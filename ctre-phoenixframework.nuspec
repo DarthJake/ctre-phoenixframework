@@ -4,7 +4,7 @@
   <metadata>
     <id>ctre-phoenixframework</id>
     <title>CTRE Phoenix Framework</title>
-    <version>5.19.4.100</version>
+    <version>5.20.2.2</version>
     <packageSourceUrl>https://github.com/DarthJake/ctre-phoenixframework</packageSourceUrl>
     <authors>Cross The Road Electronics</authors>
     <owners>DarthJake</owners>
@@ -12,7 +12,7 @@
     <description>The CTRE Phoenix Framework software required to work with CTRE products in the FIRST FRC competition.</description>
     <projectUrl>https://github.com/CrossTheRoadElec/Phoenix-Releases/releases</projectUrl>
     <tags>ctre cross the road electronics frc first robotics admin</tags>
-    <copyright>Copyright (c) 2020 Cross the Road Electronics.</copyright>
+    <copyright>Copyright (c) 2021 Cross the Road Electronics.</copyright>
     <requireLicenseAcceptance>false</requireLicenseAcceptance>
     <iconUrl>https://cdn.jsdelivr.net/gh/DarthJake/ctre-phoenixframework@master/logo.png</iconUrl>
     <dependencies>
