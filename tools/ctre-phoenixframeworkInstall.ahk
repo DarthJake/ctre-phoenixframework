@@ -9,7 +9,7 @@ DriverInstallerTitle := "Windows Security"
 DriverInstallerButtonText := "&Install"
 
 ;;;;; Operations ;;;;;
-WinWait, %DriverInstallerTitle%, , 120
+WinWait, %DriverInstallerTitle%, , 300
 if (ErrorLevel = 1) {
     Exit
     ; MsgBox % "AHK Timed Out!" ; For testing

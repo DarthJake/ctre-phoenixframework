@@ -2,9 +2,9 @@
 
 $toolsDir = "$(Split-Path -parent $MyInvocation.MyCommand.Definition)"
 
-$url         = 'https://github.com/CrossTheRoadElec/Phoenix-Releases/releases/download/v5.20.2.2/CTRE_Phoenix_Framework_v5.20.2.2.exe'
+$url         = 'https://github.com/CrossTheRoadElec/Phoenix-Releases/releases/download/v5.21.1.0/CTRE_Phoenix_Framework_v5.21.1.0.exe'
 $fileName    = 'CTRE_Phoenix_Framework_v5.20.2.2.exe'
-$checksum = '1eb77964aaec71f0e362a36681b2aa8b8f993f45afa7490c97a17c152ce3d128'
+$checksum = '288A446DC8F84EA00BA2D7E1AACD1A98CB4A8DA22B1F100B3636D5645CBE340C'
 
 $packageArgs = @{
   packageName    = $env:ChocolateyPackageName
